@@ -1,7 +1,5 @@
 # Student-Info-Enrollment-System
 
-**Linkli listeler**
-
 ![](Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.002.png)
 
 ![](Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.003.png)
