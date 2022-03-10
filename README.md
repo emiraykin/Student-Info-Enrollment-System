@@ -43,7 +43,8 @@ Kullanıcı ders kaydı yaptığında öğrencinin kredisi(credit) ve aldığı 
 
 ![](/png/Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.007.png)
 
-![](/png/Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.008.png)![]/png/(Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.009.png)
+![](/png/Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.008.png)
+![](/png/Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.009.png)
 
 Yukarıdaki inputlara göre Eddard Stark öğrencisine iki adet ders eklemeye çalışalım. İlk ders iki kredilik, olsun. Beklentimiz: ilk dersi ekleyebilecek fakat ikinci dersi hem kredi limitini hem de ders sayısını aşacağı için ekleyemeycek.
 
