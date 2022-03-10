@@ -1,20 +1,4 @@
 # Student-Info-Enrollment-System
-**Yapısal Programlama** 
-
-**Dönem Projesi**
-
-![](Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.001.png)
-
-**Emir Çağrı Aykın**
-
-**20011062**
-
-**Yapısal Programlama Grup 2**
-
-**Öğr. Gör. Ahmet Elbir**
-
-**07.01.2022**
-
 
 **Linkli listeler**
 
@@ -258,38 +242,3 @@ Programdan ders silelim
 
 ![](Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.056.png)![](Aspose.Words.ff7bcd9c-429b-48d9-8b6a-822f8f29e35d.057.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Ödevin Bana Kazandırdıkları**
-
-1. **Linkli liste ve struct hakimiyetim arttı**
-1. **Dosya operasyonlarına alışkınlık kazandım**
-1. **Gerçek hayatta her gün kullandığımız tarzda bir program yazdım özgüvenim arttı.**
-
-
-**Yararlanılan Kaynaklar**
-
-[Geeksforgeeks.com](geeksforgeeks.com)
-
-Codeforwin.com
-
-C for dummies by Dan Gookin
